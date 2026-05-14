@@ -1,7 +1,7 @@
 # How Enel Uses Visual Inspection Data to Build a Digital Twin of Its Transmission and Distribution
 
-**Published:** 2025-07-14
-**Medium:** [https://medium.com/@kyle-t-jones/how-enel-uses-visual-inspection-data-to-build-a-digital-twin-of-its-transmission-and-distribution-aa7cd6ebf4f3](https://medium.com/@kyle-t-jones/how-enel-uses-visual-inspection-data-to-build-a-digital-twin-of-its-transmission-and-distribution-aa7cd6ebf4f3)
+Published: 2025-07-14
+Medium: [https://medium.com/@kyle-t-jones/how-enel-uses-visual-inspection-data-to-build-a-digital-twin-of-its-transmission-and-distribution-aa7cd6ebf4f3](https://medium.com/@kyle-t-jones/how-enel-uses-visual-inspection-data-to-build-a-digital-twin-of-its-transmission-and-distribution-aa7cd6ebf4f3)
 
 ## About
 
